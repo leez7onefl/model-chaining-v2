@@ -11,6 +11,7 @@ before, read the **"The big idea"** section first — it gives you the mental
 picture you need before the node-by-node tour makes sense.
 
 ---
+![Workflow Map](workflow_map.png)
 
 ## The big idea: why chain two models?
 
